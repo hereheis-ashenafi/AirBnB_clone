@@ -1,5 +1,4 @@
-# AirBnB_clone
+## AirBnB_clone
 
-HolbertonBnB
 An AirBnB clone.
 
